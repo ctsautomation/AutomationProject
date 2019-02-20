@@ -13,7 +13,7 @@ public class Test_001_Create_Shop_Order extends LoginMethod {
 	
 	@Test
 	public void Test_Test_001_Create_Shop_Order()  {
-		
+		//Checking the Project push request to GitHub..
 		String shopOrderNumber = "Test_001" + Data.timeStamp;
 		
 		CommonPage comPage = new CommonPage();
