@@ -16,7 +16,7 @@ public class Test_002_Release_Shop_Order extends LoginMethod {
 	
 	@Test
 	public void Test_002_Test() {
-	
+		//Checking the Project push request to GitHub..
 		String shopOrderNumber = "Test_002" + Data.timeStamp;
 		MenuPage menuPage = new MenuPage();
 		CommonPage comPage = new CommonPage();

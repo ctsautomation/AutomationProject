@@ -8,7 +8,8 @@ import org.junit.runners.Suite;
 @Suite.SuiteClasses({
 	
 	Test_008_TestGlobalInstance.class,
-	Test_005_TestWaitMethod.class
+	Test_005_TestWaitMethod.class,
+	
 })
 public class RunSelectedTest {
 
